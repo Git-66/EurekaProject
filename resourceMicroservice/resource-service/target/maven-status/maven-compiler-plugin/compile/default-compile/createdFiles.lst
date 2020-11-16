@@ -1,0 +1,8 @@
+com/example/resourceservice/ResourceService.class
+com/example/resourceservice/Resource.class
+com/example/resourceservice/ProjectDao.class
+com/example/resourceservice/ResourceController.class
+com/example/resourceservice/Project.class
+com/example/resourceservice/ResourceDao.class
+com/example/resourceservice/ResourceServiceApplication.class
+com/example/resourceservice/RestTemplateConfig.class
